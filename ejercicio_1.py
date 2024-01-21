@@ -3,3 +3,7 @@ triangulo
 """
 
 base = int(input("ingrese la base: "))
+altura = int(input("ingrese la altura: "))
+
+area = base * altura
+print(f"el area del triangulo es: {area}")
